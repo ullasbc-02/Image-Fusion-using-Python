@@ -1,0 +1,4 @@
+https://www.intechopen.com/chapters/76249
+https://link.springer.com/article/10.1007/s11831-021-09540-7#Sec3
+https://towardsdatascience.com/the-wavelet-transform-e9cfa85d7b34
+https://in.mathworks.com/help/wavelet/ref/dwt2.html
